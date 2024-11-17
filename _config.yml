@@ -83,6 +83,7 @@ defaults:
 
 include:
   - _pages
+   - "images"
 
 sass:
   sass_dir: _sass
