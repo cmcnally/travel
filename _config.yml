@@ -13,7 +13,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 author:
   author__name: Catharine McNally
   author__bio: Curious adventurer. Creative outlet via photography and writing.
-  author__avatar: '/images/headshot.jpeg'
+  author__avatar: '/images/IMG_3131.jpeg'
 
 social:
 - {icon: "ion-logo-facebook", link: "https://facebook.com/catharine.mcnally"}
