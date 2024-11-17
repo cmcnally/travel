@@ -84,7 +84,6 @@ defaults:
 include:
   - _pages
   - images
-  - _posts
 
 sass:
   sass_dir: _sass
