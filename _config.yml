@@ -38,11 +38,11 @@ gallery:
   gallery__columns: 3
   gallery__images:
     - alt: 'Rest'
-      url: '/images/100.jpg'
+      url: '/images/moab-1.jpg'
     - alt: 'Lifestyle'
-      url: '/images/101.jpg'
+      url: '/images/moab-2.jpg'
     - alt: 'Hobby'
-      url: '/images/102.jpg'
+      url: '/images/moab-3.jpg'
     - alt: 'Notes'
       url: '/images/103.jpg'
     - alt: 'Rest'
