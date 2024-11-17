@@ -12,7 +12,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Author Settings
 author:
   author__name: Catharine McNally
-  author__bio: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
+  author__bio: Curious adventurer. Creative outlet via photography and writing.
   author__avatar: '/images/headshot.jpeg'
 
 social:
@@ -26,17 +26,9 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hey, I’m Catharine
-  hero__description: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
+  hero__title: Hi, I’m Catharine
+  hero__description: Curious adventurer. Creative outlet via photography and writing. 
   hero__image: '/images/headshot.jpeg'
-
-
-#-------------------------------
-# Newsletter
-mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
-mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-mailchimp__input__text: Subscribe here
-mailchimp__button__text: Get a new tip
 
 
 #-------------------------------
@@ -63,17 +55,6 @@ gallery:
       url: '/images/107.jpg'
     - alt: 'Rest'
       url: '/images/108.jpg'
-
-
-#-------------------------------
-
-# NOTE
-# Menca theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
-
-
-#-------------------------------
-# Comment Section (Disqus)
-disqus-identifier: demo-menca # Add your shortname for Disqus Comment. For example demo-menca
 
 
 #-------------------------------
